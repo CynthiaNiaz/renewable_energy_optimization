@@ -66,7 +66,7 @@ Value at Risk (5%): 95.50 kWh
  
 --- 
 ## Sample Visualization 
-The plot below shows the distribution of energy shortfalls after optimization: ![Shortfall Distribution](optimized_energy_allocation.png) This histogram illustrates the results of the Monte Carlo simulations. ![Monte-Carlo Shortfall Distribution](images/monte_carlo_shortfall_distribution.png) 
+The plot below shows the distribution of energy shortfalls after optimization: ![Shortfall Distribution](optimized_energy_allocation.png) This histogram illustrates the results of the Monte Carlo simulations. ![Monte-Carlo Shortfall Distribution](monte_carlo_shortfall_distribution.png) 
  
 --- 
 ## Why I Built This 

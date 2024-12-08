@@ -89,6 +89,7 @@ This tool is useful for:
 --- 
 ## Contact 
 If you have questions, suggestions, or ideas for improvement, feel free to reach out! 
+
 --- 
 ## License 
 This project is licensed under the MIT License. See the LICENSE file for details."
